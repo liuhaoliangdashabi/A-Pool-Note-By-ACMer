@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数论/逆元——除法取模.md",
+                "file": "数论/逆元——除法取模,拆分成乘法同余.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逆元——除法取模"
+              "title": "逆元——除法取模,拆分成乘法同余"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数论/逆元——除法取模.md",
+                "file": "数论/逆元——除法取模,拆分成乘法同余.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数论/逆元——除法取模.md",
+                "file": "数论/逆元——除法取模,拆分成乘法同余.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数论/逆元——除法取模.md",
+                "file": "数论/逆元——除法取模,拆分成乘法同余.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +191,7 @@
   "active": "9d4f10b228dc5faf",
   "lastOpenFiles": [
     "数论/最大公约数与最小公倍数.md",
-    "数论/逆元——除法取模.md",
+    "数论/逆元——除法取模,拆分成乘法同余.md",
     "数论/素数.md",
     "数论/试除法求约数与分解质因子.md"
   ]
